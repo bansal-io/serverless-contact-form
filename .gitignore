@@ -1,5 +1,4 @@
 node_modules/
-*.md
 package-lock.json
 config.text.js
 test/
