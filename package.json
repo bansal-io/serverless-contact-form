@@ -1,0 +1,22 @@
+{
+  "name": "serverless-contact-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "functions-framework --target=onSubmit"
+  },
+  "author": "bansal.io",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^1.1.2",
+    "nodemailer": "^6.3.0",
+    "querystring": "^0.2.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-zip": "^5.0.0"
+  }
+}
