@@ -31,7 +31,6 @@ SMTP_TO |  jack@example.com,mike@example.com | comma separated email addresses o
 RECAPTCHA_SECRET_KEY | | Leave this blank it don't want captcha.  Read more about [reCaptcha](https://developers.google.com/recaptcha/docs/verify)
 REQUIRED_FIELDS | name,email,message | Comma separated list of required fields
 SUCCESS_MESSAGE | Thank you, We have received your message | 
-```
 
 
 
